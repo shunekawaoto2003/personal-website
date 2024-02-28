@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1070fb1d-db02-4f27-88d4-5797b5da27e7
+      url: 'shunekawaoto.netlify.app'
