@@ -1,9 +1,23 @@
 ---
-title: "Title of Website"
+title: Shune Kawaoto
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www/linkedin.com/shunekawaoto/
+    - icon: github
+      text: Github
+      url: https://github.com/shunekawaoto2003
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:kawaotoshune@gmail.com"
+image: headshot.jpg
 ---
 
-This is a Quarto website.
+I am a third year Class of 2024 Statistics and Data Science major at University of California, Los Angeles *(UCLA)*.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here is my [CV](/docs/CV.pdf "CV").
 
-
+<!-- Include relevant work experience, coursework -->

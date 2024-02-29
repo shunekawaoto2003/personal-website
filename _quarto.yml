@@ -2,21 +2,28 @@ project:
   type: website
 
 website:
-  title: "Shune Kawaoto"
+  # title: "Shune Kawaoto"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - href: about.qmd
-        text: Bio
+        text: Work Experience
       - href: projects.qmd
         text: Projects
+      - href: coursework.qmd
+        text: Courework
+        
+  page-footer:  
+    right: "&copy; 2024, Shune Kawaoto"
+        
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
 
 
 execute:
