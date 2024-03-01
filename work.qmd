@@ -1,2 +1,21 @@
+# Work Experience
+- Statistical Consultant \hfill April 2024 - June 2024
+  - *UCLA*
+- University Apartment Mailroom Worker \hfill August 2023 - June 2024
+  - *UCLA Housing*
+- Bussing Supervisor \hfill September 2022 - July 2023
+  - *Ackerman Student Union*
+- Copy Editor \hfill September 2021 - June 2024
+  - *Pacific Ties Newsmagazine*
+  
+# Projects
+- **[Predicting Electric Vehicle Prices](https://github.com/shunekawaoto2003/Predicting-EV-Prices)**
+  - Created a linear model to predict the price of EV vehicles based on their configurations such as top speed, 
+  mileage, charge speed, etc.
+- **[Predicting the Alcoholic Status of Individuals From Health Data](https://github.com/shunekawaoto2003/Predicting-Alcoholic-Status)**
+  - Used machine learning models to impute and predict individuals' alcoholic statuses with a 73% predicting rate.
+- **[Analysis of Lighting Conditions Affecting Perception of Photos](https://github.com/shunekawaoto2003/Analysis-of-light-conditions)**
+  - Used a random forest model to predict how different lighting conditions affects the perceptions of photos.
 
-Here you can demonstrate your projects
+# Technical Experience
+C++, R, Python, SQL, Excel, Stata, GIS

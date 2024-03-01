@@ -7,12 +7,10 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: about.qmd
+      - href: school.qmd
+        text: Academic Experience
+      - href: work.qmd
         text: Work Experience
-      - href: projects.qmd
-        text: Projects
-      - href: coursework.qmd
-        text: Courework
         
   page-footer:  
     right: "&copy; 2024, Shune Kawaoto"
