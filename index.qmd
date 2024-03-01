@@ -16,7 +16,7 @@ about:
 image: headshot.jpg
 ---
 
-I am a third year Class of 2024 Statistics and Data Science major at University of California, Los Angeles *(UCLA)*.
+I am a third year Statistics and Data Science major at University of California, Los Angeles *(UCLA)*.
 
 Here is my [CV](/docs/CV.pdf "CV").
 
