@@ -1,6 +1,5 @@
 ---
 toc: false
-comments: false
 ---
 # UCLA Relevant Coursework
 
