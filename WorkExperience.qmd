@@ -1,5 +1,4 @@
 ---
-# title: Shune Kawaoto
 toc: false
 comment: false
 ---
