@@ -1,5 +1,7 @@
 ---
+title: Shune Kawaoto
 toc: false
+comment: false
 ---
 # Work Experience
 - Consultant \hfill April 2024 - June 2024
