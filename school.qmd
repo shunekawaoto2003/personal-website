@@ -9,8 +9,8 @@
 - STATS 102A \hfill Introduction to Computational Statistics with R
 - STATS 102B \hfill Introduction to Computation and Optimization for Statistics
 - STATS 102C \hfill Introduction to Monte Carlo Methods
-- STATS C173 \hfill Applied Geostatistics
 - STATS C155 \hfill Applied Sampling
+- STATS C173 \hfill Applied Geostatistics
 - COM SCI 31 \hfill Introduction to Computer Science I
 - COM SCI 32 \hfill Introduction to Computer Science II
 - MATH 115A \hfill Linear Algebra
