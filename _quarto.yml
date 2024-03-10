@@ -7,9 +7,9 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: school.qmd
+      - href: AcademicExperience.qmd
         text: Academic Experience
-      - href: work.qmd
+      - href: WorkExperience.qmd
         text: Work Experience
         
   page-footer:  
