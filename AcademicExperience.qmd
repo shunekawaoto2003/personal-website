@@ -1,3 +1,6 @@
+---
+toc: false
+---
 # Coursework
 
 <!-- Your regular text <span style="float: right;">right aligned text</span> -->
