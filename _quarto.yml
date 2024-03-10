@@ -22,7 +22,7 @@ format:
     css: styles.css
     toc: true
 
-
+pagetitle: "{{< Shune Kawaoto >}}"
 
 execute:
   freeze: auto
