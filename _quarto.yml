@@ -4,7 +4,6 @@ project:
 website:
   # title: "Shune Kawaoto"
   navbar:
-    title: false
     left:
       - href: index.qmd
         text: About
