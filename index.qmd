@@ -19,5 +19,3 @@ image: headshot.jpg
 I am a third year Statistics and Data Science major at University of California, Los Angeles *(UCLA)*.
 
 Here is my [CV](/docs/CV.pdf "CV").
-
-<!-- Include relevant work experience, coursework -->
