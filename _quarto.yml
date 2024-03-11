@@ -4,9 +4,10 @@ project:
 website:
   title: Shune Kawaoto
   navbar:
+    title: false
     left:
-      # - href: index.qmd
-        # text: About
+      - href: index.qmd
+        text: About
       - href: AcademicExperience.qmd
         text: Academic Experience
       - href: WorkExperience.qmd
