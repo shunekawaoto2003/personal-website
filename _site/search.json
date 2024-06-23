@@ -4,7 +4,7 @@
     "href": "WorkExperience.html",
     "title": "Work Experience",
     "section": "",
-    "text": "Work Experience\n\nConsultant April 2024 - June 2024\n\nUCLA\n\nUniversity Apartment Mailroom Worker August 2023 - June 2024\n\nUCLA Housing\n\nBussing Supervisor September 2022 - July 2023\n\nAckerman Student Union\n\nCopy Editor September 2021 - June 2024\n\nPacific Ties Newsmagazine\n\n\n\n\nProjects\n\nPredicting Electric Vehicle Prices\n\nCreated a linear model to predict the price of EV vehicles based on their configurations such as top speed, mileage, charge speed, etc.\n\nPredicting the Alcoholic Status of Individuals From Health Data\n\nUsed machine learning models to impute and predict individuals’ alcoholic statuses with a 73% predicting rate.\n\nAnalysis of Lighting Conditions Affecting Perception of Photos\n\nUsed a random forest model to predict how different lighting conditions affects the perceptions of photos.\n\n\n\n\nTechnical Experience\nC++, R, Python, SQL, Excel, Stata, GIS"
+    "text": "Work Experience\n\nData Science Intern\n\nRadicalX June 2024 - Present\n\nConsultant\n\nChatterBaby April 2024 - June 2024\n\n\n\n\nProjects\n\nPredicting Electric Vehicle Prices\n\nCreated a linear model to predict the price of EV vehicles based on their configurations such as top speed, mileage, charge speed, etc.\n\nPredicting the Alcoholic Status of Individuals From Health Data\n\nUsed machine learning models to impute and predict individuals’ alcoholic statuses with a 73% predicting rate.\n\nAnalysis of Lighting Conditions Affecting Perception of Photos\n\nUsed a random forest model to predict how different lighting conditions affects the perceptions of photos.\n\n\n\n\nTechnical Experience\nC++, R, Python, SQL, Excel, Stata, GIS"
   },
   {
     "objectID": "AcademicExperience.html",
@@ -18,6 +18,6 @@
     "href": "index.html",
     "title": "Shune Kawaoto",
     "section": "",
-    "text": "I am a third year Statistics and Data Science major at University of California, Los Angeles (UCLA).\nHere is my CV."
+    "text": "I am a first year M.S. Applied Statistics candidate at California State University, Long Beach (CSULB).\nHere is my CV."
   }
 ]
