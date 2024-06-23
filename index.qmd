@@ -15,6 +15,6 @@ about:
 image: headshot.jpg
 ---
 
-I am a first year M.S. Applied Statistics candidate at California State University, Long Beach *(CSULB)*.
+I am a first year M.S. Applied Statistics student at California State University, Long Beach *(CSULB)*.
 
 Here is my [CV](/docs/CV.pdf "CV").
