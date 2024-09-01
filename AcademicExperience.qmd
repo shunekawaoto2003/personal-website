@@ -24,3 +24,7 @@ toc: false
 | GEOG 7 | Introduction to Geographic Information Systems |
 
 
+# CSULB Relevant Coursework
+| STAT 510 | Regression Analysis |
+| STAT 520 | Statistical Inference |
+| STAT 530 | Experimental Design |
