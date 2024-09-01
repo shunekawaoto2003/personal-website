@@ -4,22 +4,23 @@ toc: false
 
 # Work Experience
 
--   **Teaching Associate** - Mathematics and Statistics Department at California State University, Long Beach *2024 - Present*  
-    -   Assisted in teaching fundamental statistical concepts including beginning algebra, probability, and data analysis.  
-    -   Supported students in understanding and applying measures of central tendency, variability, and linear models.  
-    -   Guided students in creating and interpreting graphical and tabular displays of data.  
-    -   Facilitated discussion sections, answering questions, and clarifying complex topics to enhance student comprehension.  
-    -   Graded assignments and exams, providing detailed feedback to support student learning and improvement.  
-    -   Held office hours to offer additional help on course materials and problem-solving techniques.  
-
+-   **Teaching Associate** Mathematics and Statistics Department at CSULB *August 2024 - Present*
+    -   Assisted in teaching fundamental statistical concepts including beginning algebra, probability, and data analysis.\
+    -   Supported students in understanding and applying measures of central tendency, variability, and linear models.\
+    -   Guided students in creating and interpreting graphical and tabular displays of data.\
+    -   Facilitated discussion sections, answering questions, and clarifying complex topics to enhance student comprehension.\
+    -   Graded assignments and exams, providing detailed feedback to support student learning and improvement.\
+    -   Held office hours to offer additional help on course materials and problem-solving techniques.
+    
 -   **Statistical Consultant** - ChatterBaby *April 2024 - June 2024*  
-    -   Conducted comprensive literature reviews on infant cry classification and statistical modeling techniques.
-    -   Collected hundreds of thousands of crying baby audio, converting, filtering, and cleaning audio files to usable data quality.
-    -   Developed and validated machine learning models, including K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and XGBoost, achieving a baseline accuracy of 78.79%.
-    -   Implemented both "good" and "bad" statistical practices to compare the impact on model performance and highlight the risks of data manipulation in research and competitors.
-    -   Applied feature selection techniques, such as Principal Component Analysis (PCA), to reduce data dimensionality and optimize model performance.
-    -   Conducted exploratory data analysis to identify key trends and challenges in infant cry classification, including class imbalances and mislabeling.
-    -   Analyzed the ethical implications of statistical practices in research, emphasizing the importance of adhering to sound methodologies.
+    -   Conducted comprensive literature reviews on infant cry classification and statistical modeling techniques.  
+    -   Collected hundreds of thousands of crying baby audio, converting, filtering, and cleaning audio files to usable data quality.  
+    -   Developed and validated machine learning models, including K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and XGBoost, achieving a baseline accuracy of 78.79%.  
+    -   Implemented both "good" and "bad" statistical practices to compare the impact on model performance and highlight the risks of data manipulation in research and competitors.  
+    -   Applied feature selection techniques, such as Principal Component Analysis (PCA), to reduce data dimensionality and optimize model performance.  
+    -   Conducted exploratory data analysis to identify key trends and challenges in infant cry classification, including class imbalances and mislabeling.  
+    -   Analyzed the ethical implications of statistical practices in research, emphasizing the importance of adhering to sound methodologies.  
+    
 
 # Projects
 
