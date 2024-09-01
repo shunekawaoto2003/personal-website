@@ -4,8 +4,6 @@ toc: false
 
 # Work Experience
 
--   Data Science Intern
-    - RadicalX *June 2024 - Present*
 -   Consultant
     -   ChatterBaby *April 2024 - June 2024*
 

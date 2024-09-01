@@ -4,7 +4,7 @@
     "href": "WorkExperience.html",
     "title": "Work Experience",
     "section": "",
-    "text": "Work Experience\n\nData Science Intern\n\nRadicalX June 2024 - Present\n\nConsultant\n\nChatterBaby April 2024 - June 2024\n\n\n\n\nProjects\n\nPredicting Electric Vehicle Prices\n\nCreated a linear model to predict the price of EV vehicles based on their configurations such as top speed, mileage, charge speed, etc.\n\nPredicting the Alcoholic Status of Individuals From Health Data\n\nUsed machine learning models to impute and predict individuals’ alcoholic statuses with a 73% predicting rate.\n\nAnalysis of Lighting Conditions Affecting Perception of Photos\n\nUsed a random forest model to predict how different lighting conditions affects the perceptions of photos.\n\n\n\n\nTechnical Experience\nC++, R, Python, SQL, Excel, Stata, GIS"
+    "text": "Work Experience\n\nConsultant\n\nChatterBaby April 2024 - June 2024\n\n\n\n\nProjects\n\nPredicting Electric Vehicle Prices\n\nCreated a linear model to predict the price of EV vehicles based on their configurations such as top speed, mileage, charge speed, etc.\n\nPredicting the Alcoholic Status of Individuals From Health Data\n\nUsed machine learning models to impute and predict individuals’ alcoholic statuses with a 73% predicting rate.\n\nAnalysis of Lighting Conditions Affecting Perception of Photos\n\nUsed a random forest model to predict how different lighting conditions affects the perceptions of photos.\n\n\n\n\nTechnical Experience\nC++, R, Python, SQL, Excel, Stata, GIS"
   },
   {
     "objectID": "AcademicExperience.html",
