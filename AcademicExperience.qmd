@@ -25,6 +25,8 @@ toc: false
 
 
 # CSULB Relevant Coursework
+| Course Code | Course Title |
+|-------------|--------------|
 | STAT 510 | Regression Analysis |
 | STAT 520 | Statistical Inference |
 | STAT 530 | Experimental Design |
